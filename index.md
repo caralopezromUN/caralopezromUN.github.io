@@ -1,8 +1,6 @@
 # Carlos Arturo López Romero
 
-
-
-## Full stack developer and Student
+> ## Full stack developer and Student
 
 Hello, I'm software developer with six months of work experience. I started programing since 2012, and currently I studying Systems and Computing Engineering in the Universidad Nacional de Colombia.
 
